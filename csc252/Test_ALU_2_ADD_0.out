@@ -1,0 +1,8 @@
+Inputs:
+  a: 10
+  b: 11
+  bNegate: 0
+  aluOp: 010
+
+Output:
+  result: 01
